@@ -10,7 +10,7 @@ namespace DesignPartten
     {
         static void Main(string[] args)
         {
-            Singleton.Instanse.publicFunction();
+            Singleton.Instanse.publicFunction(); 
         }
     }
 }
